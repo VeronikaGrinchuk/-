@@ -1,0 +1,45 @@
+<html>
+    <body style="font-family:sans-serif; background:#FFEFD5">
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsymdldANYm7oLl2zpcLBQvgrMwE5r1Nx2sQ&s" height="70px"/>
+             <a href="https://murkosha.ru/" style="color: blue">Взять котика из приюта</a>
+              <a href="https://www.purina.ru/find-a-pet/cat-breeds" style="color: blue">Породы котов</a>
+    </header>
+    <h1 style="background-color:orange; text-align: center; color:brown; font-size:50px">Котики из приюта</h1>
+    <p style="font-size:20px">Каждый из нас очень любит котиков, но возможно не каждый может завести себе породистого котика. Но каждый может взять своего любимца из приюта.</p> В нашем приюте есть много котиков, такие как: <b><i>рыжие, с пятнышками и черные с белыми. Но с каждым годом у нас появляется все больше разных котов, с разными окрасами.</i></b> <br/>У нас работают только хорошие и верные люди. Они заботятся о наших котиках.</p>  
+            <img src="https://images.techinsider.ru/upload/img_cache/b6b/b6b4cf32e62c8173690062d1df041b33_cropped_666x666.jpg" height="230px"/><img src="https://wl-adme.cf.tsp.li/resize/728x/jpg/be3/c8f/47c56f5291bb7e1b0e3bf4d346.jpg" height="230px"/><img src="https://i.pinimg.com/564x/75/3f/15/753f15b40a68a10116d6112327ba9314.jpg" height="230px"/>
+    </main>
+     <table style="border:1px solid grey;">
+        <tr>
+            <td style="border:1px solid blue;">Котики</td>
+            <td style="border:1px solid blue;">Имя,возвраст</td>
+            <td style="border:1px solid blue;">Характер</td>
+        </tr>
+        <tr>
+            <td style="border:1px solid blue;">Рыжий</td>
+            <td style="border:1px solid blue;">Мурка, 1 год</td>
+            <td style="border:1px solid blue;">Веселая,игривая</td>
+        </tr>
+        <tr>
+            <td style="border:1px solid blue;">Черный</td> 
+            <td style="border:1px solid blue;">Пряник, 3 месяца</td>  
+            <td style="border:1px solid blue;">Скромный,тихий</td>
+        </tr>
+        <tr>
+            <td style="border:1px solid blue;">Белый</td>
+            <td style="border:1px solid blue;">Снежок, 2 года</td>
+            <td style="border:1px solid blue;">Быстрый, харизматичный</td>            
+    </table>
+    <form> 
+    <p><b><i>Оставьте свою заявку, чтобы завести котенка</i></b></p>      
+	
+	<p><label>Введите имя <input type=”text”></label></p>
+	<p><label>Введите телефон <input type=”tel”> </label></p>
+	<p><label><input type=”checkbox”> Подключить рассылку</label></p>
+<input type=”submit” value=”Отправить”> 
+
+</form> 
+    <footer style="background-color:orange;color:brown;">
+        <p style="font-size:20px"> Адрес Москва, ул. Осташковская, д. 14</p>
+        <p>Тел.:596-457</p>
+    </footer>
+</html>
